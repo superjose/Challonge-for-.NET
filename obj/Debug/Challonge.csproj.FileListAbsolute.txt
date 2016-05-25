@@ -1,0 +1,7 @@
+D:\AllData\Dropbox\Pro Gaming\www\Pro_Gaming V2\PG Arena\Challonge\bin\Debug\Challonge.dll
+D:\AllData\Dropbox\Pro Gaming\www\Pro_Gaming V2\PG Arena\Challonge\bin\Debug\Challonge.pdb
+D:\AllData\Dropbox\Pro Gaming\www\Pro_Gaming V2\PG Arena\Challonge\bin\Debug\Newtonsoft.Json.dll
+D:\AllData\Dropbox\Pro Gaming\www\Pro_Gaming V2\PG Arena\Challonge\bin\Debug\Newtonsoft.Json.xml
+D:\AllData\Dropbox\Pro Gaming\www\Pro_Gaming V2\PG Arena\Challonge\obj\Debug\Challonge.csprojResolveAssemblyReference.cache
+D:\AllData\Dropbox\Pro Gaming\www\Pro_Gaming V2\PG Arena\Challonge\obj\Debug\Challonge.dll
+D:\AllData\Dropbox\Pro Gaming\www\Pro_Gaming V2\PG Arena\Challonge\obj\Debug\Challonge.pdb
