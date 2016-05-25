@@ -81,8 +81,7 @@ namespace Challonge.Models
         public string team_convertable { get; set; }
         public string group_stages_were_started { get; set; }
 
-        [JsonProperty("participants")]
-        public ChallongeParticipant participants { get; set; }
+        public IEnumerable<JsonChallongeParticipant> participants { get; set; }
            
     }
 
